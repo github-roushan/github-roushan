@@ -32,8 +32,8 @@
 - 👯 I’m looking to collaborate on projects written in C++, Python, Java, Golang and Rust
 - 🤔 I’m looking for help with contributing to large Codebases and to become a github Ninja
 - 💬 Ask me about Competitive Programming and Problem Solving
-- ⚡ Fun fact: Not Afraid of Coding Interviews, Use Tabs over Spaces, neovim > nano > vim
-
+- ⚡ Fun fact: Not Afraid of Coding Interviews, Use Tabs over Spaces, neovim > nano > vim <br>
+   — because I like my editors like I like my code: evolving.🦋
 
 ## Use To Code
 
