@@ -23,17 +23,21 @@
 <br />
 
 
- # About me
-- Ex-Google software engineer, **tech enthusiast** with a Bachelor's from **NIT Raipur**. Looking to become the best tech contributor and create innovative solutions for tech companies around the world
-<br>
+# About me
 
-- 🔭 I’m currently working on becoming a Github Ninja
-- 🌱 I’m currently learning Rust and its libraries
-- 👯 I’m looking to collaborate on projects written in C++, Python, Java, Golang and Rust
-- 🤔 I’m looking for help with contributing to large Codebases and to become a github Ninja
-- 💬 Ask me about Competitive Programming and Problem Solving
-- ⚡ Fun fact: Not Afraid of Coding Interviews, Use Tabs over Spaces, neovim > nano > vim <br>
-   — because I like my editors like I like my code: evolving.🦋
+* Ex-Google software engineer, **tech enthusiast** with a bachelor's from **NIT Raipur**. Obsessed with building scalable systems, breaking things to learn faster, and pushing code that makes an impact
+
+  <br>
+  
+* 🔭 I’m currently working on [RustCache](https://github.com/ForgeOfCreationX/RustCache) becoming a Github Ninja
+* 🌱 Diving into Rust, Go, distributed systems, and everything from low-level internals to AI/ML.
+* 👯 Collaborating on innovative projects using C++, Python, Java, Golang, and Rust
+* 🏗️ Contributing to large-scale codebases and always looking to expand my impact
+* 💬 Ask me about Problem Solving and large scale systems
+* ⚡ Fun fact: Not Afraid of Coding Interviews, Use Tabs over Spaces, neovim > nano > vim <br>
+  — I like my editors the way I like my code: evolving. 🦋
+
+---
 
 ## Use To Code
 
